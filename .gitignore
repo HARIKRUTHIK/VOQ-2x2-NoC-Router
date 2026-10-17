@@ -1,0 +1,25 @@
+# EDA Tool Artifacts
+*.vcd
+*.wlf
+transcript
+work/
+*.mpf
+*.cr.mti
+*.mti
+
+# Quartus build artifacts
+db/
+incremental_db/
+output_files/
+*.qsf
+*.qpf
+*.sof
+*.pof
+*.rpt
+*.summary
+*.jdi
+*.pin
+
+# OS files
+.DS_Store
+Thumbs.db
